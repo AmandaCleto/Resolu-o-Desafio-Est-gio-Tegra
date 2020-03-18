@@ -50,7 +50,7 @@ X Exibir o valor total do carrinho de compras
 
 1 - A escolha da linguagem para o desenvolvimento.  
     Comecei fazendo o desafio em HTML, CSS e Javascript.
-    Contudo, após três dias de trabalho, alguns amigos meus me alertaram que usar React seria a melhor opção para esse desafio.  
+    Contudo, após desenvolver parte do projeto, alguns amigos meus me alertaram que usar React seria a melhor opção para esse desafio.  
     Meus conhecimentos em React são básicos, porém, aceitei o desafio e comecei a fazer em React.
 
 2 - Preencher uma lista com dados que não vieram de uma API ou um banco externo.
