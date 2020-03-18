@@ -59,12 +59,8 @@ X Exibir o valor total do carrinho de compras
 3 - Fazer o CRUD da lista principal de livros  
     Após várias pesquisas, cheguei a solução utilizando os dados usados no state do componente principal "Vitrine".  
 
-4 - Passagem de dados do state para outro componente.  
-    A princípio, eu havia criado duas rotas, uma para a Listagem de livros e outra para o Carrinho, que possuiria os livros adicionados. Contudo, ao ter que passar dados do state do componente Vitrine para o componente Carrinho, este então era renderizado logo abaixo do componente Vitrine e também em sua própria rota.  
-    Não achei a solução para esse problema, e tive que dispensar as rotas em busca de terminar a tempo.
-
-5 - Manipulação de um dado recebido do state do componente "Pai" no componente "filho"  
-    A simples operação de pegar a quantidade requerida de itens na compra de um livro, vezes o valor do estoque, para então gerar um subTotal a se pagar por item foi bastante complexa devido ao fato de que os dados estavam sendo recebidos a partir do state do componente "Pai". A solução que tive foi criada juntamente de um amigo meu que tem maiores conhecimentos em React. E por fim, acredito que ter usado os dados no state não foi a melhor solução, contudo foi o que consegui fazer dentro do prazo estipulado.
+4 - Manipulação de um dado recebido do state do componente "Pai" no componente "filho"  
+    A operação de pegar a quantidade requerida de itens na compra de um livro, vezes o valor do estoque, para então gerar um subTotal a se pagar por item foi bastante complexa devido ao fato de que os dados estavam sendo recebidos a partir do state do componente "Pai". A solução que tive foi criada juntamente de um amigo meu que tem maiores conhecimentos em React. E por fim, acredito que ter usado os dados no state não foi a melhor solução, contudo foi o que consegui fazer dentro do prazo estipulado.
 
 ***
 
