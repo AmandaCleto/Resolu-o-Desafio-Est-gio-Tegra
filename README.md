@@ -27,16 +27,19 @@ Mais Informações em: https://github.com/tegraoss/desafio-estagio-tegra
 
 ### Requisitos Cumpridos
 
-✓ Permitir o cadastro, remoção, alteração e listagem de livros
-  ✓ Cadastro de novos livros com os seguintes dados: Nome do livro, Autor(es), Preço e Quantidade em Estoque
-  ✓ Remoção de livros, a partir do seu ID
-  ✓ Alteração de valores de um livro
-  ✓ Listagem de livros
-✓ Permitir adicionar livros ao carrinho de compras
-✓ Permitir remover livros do carrinho de compras
-✓ Exibir o valor subtotal de cada livro no carrinho de compras
-X Exibir o valor total do carrinho de compras
-✓ Ao adicionar livros ao carrinho de compras, exibir um erro e impedir que o usuário tente adicionar uma quantidade de livros maior do que o disponível em estoque
+✓ Permitir o cadastro, remoção, alteração e listagem de livros  
+
+  ✓ Cadastro de novos livros com os seguintes dados: Nome do livro, Autor(es), Preço e Quantidade em Estoque  
+  ✓ Remoção de livros, a partir do seu ID  
+  ✓ Alteração de valores de um livro  
+  ✓ Listagem de livros  
+  
+✓ Permitir adicionar livros ao carrinho de compras  
+✓ Permitir remover livros do carrinho de compras  
+✓ Exibir o valor subtotal de cada livro no carrinho de compras  
+X Exibir o valor total do carrinho de compras  
+✓ Ao adicionar livros ao carrinho de compras, exibir um erro e impedir que o usuário tente adicionar uma quantidade de livros maior do que o disponível em estoque  
+
 
 
 #### Bug  
