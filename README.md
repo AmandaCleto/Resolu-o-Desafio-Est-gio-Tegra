@@ -28,12 +28,10 @@ Mais Informações em: https://github.com/tegraoss/desafio-estagio-tegra
 ### Requisitos Cumpridos
 
 ✓ Permitir o cadastro, remoção, alteração e listagem de livros  
-
   ✓ Cadastro de novos livros com os seguintes dados: Nome do livro, Autor(es), Preço e Quantidade em Estoque  
   ✓ Remoção de livros, a partir do seu ID  
   ✓ Alteração de valores de um livro  
   ✓ Listagem de livros  
-  
 ✓ Permitir adicionar livros ao carrinho de compras  
 ✓ Permitir remover livros do carrinho de compras  
 ✓ Exibir o valor subtotal de cada livro no carrinho de compras  
