@@ -1,0 +1,123 @@
+.flex {
+    display: flex;
+    width: 100%;
+}
+
+.nFlex {
+    display: inline;
+}
+
+.create {
+    width: 100%;
+    height: 200px;
+    background-color: #4380AB;
+    padding-top: 20px;
+}
+
+.create_title {
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: 400;
+}
+
+.create_form {
+    margin-left: 20px;
+}
+
+.create_input {
+    height: 20px;
+    width: 20%;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.create_btn {
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 25px;
+}
+
+.main_title {
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 300;
+}
+
+.list_specify {
+    background-color: rgb(221, 230, 230);
+    color: rgb(24, 32, 139);
+    width: 50%;
+    margin: 0 20px 10px 20px;
+    margin-top: 20px;
+}
+
+.list_title {
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    width: calc(100% - 40px);
+    margin: 20px 20px 10px 20px;
+    padding: 30px;    
+}
+
+.table_top {
+    margin-top: 20px;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    width: calc(100% - 40px);
+    margin: 20px 20px 10px 20px;
+    padding: 30px;
+}
+
+.list_top {
+    width: 20%;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+
+.main_row {
+    border-bottom: 2px solid rgb(245, 151, 37);
+}
+
+.main_item {
+    width: 20%;
+    height: 50px;
+    padding: 20px 10px 20px 10px;
+}
+
+.main_btn {
+    width: 80px;
+    text-align: center;
+    margin: 10px;
+}
+
+.shopping_main {
+   width: 100%;
+   height: auto;
+}
+
+.shopping {
+    overflow: auto;
+    max-height: 800px;
+    background-color: rgb(136, 167, 190);
+    width: 50%;
+    margin: 20px 20px 10px 20px;
+}
+
+.shopping_title {
+    background-color: grey;
+    height: 30px;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}

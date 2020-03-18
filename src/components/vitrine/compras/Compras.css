@@ -1,0 +1,24 @@
+.flexv {
+    display: flex;
+    align-items: center;
+}
+
+.item {
+    background-color:grey;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+
+.item--space {
+    margin-bottom: 10px;
+}
+
+.item--adjust {
+    align-items: center;
+}
+
+.item_input {
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
