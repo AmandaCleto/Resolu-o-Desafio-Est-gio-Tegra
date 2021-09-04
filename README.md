@@ -91,6 +91,6 @@ Execute o comandos para instalar as dependencias do projeto.
 <br>
 
 
-## License
-This project is licensed under the [MIT] license - see the LICENSE.md file for more details.
+## Licença
+Este projeto está licenciado sob a licença [MIT] - consulte o arquivo LICENSE.md para obter detalhes
 
