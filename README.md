@@ -89,3 +89,8 @@ Execute o comandos para instalar as dependencias do projeto.
    npm run start
    ```
 <br>
+
+
+## License
+This project is licensed under the [MIT] license - see the LICENSE.md file for more details.
+
